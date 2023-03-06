@@ -1,0 +1,36 @@
+#header{
+	background-color: blue;
+		font-size: 30px;
+}
+
+#header ul{
+	display: flex;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	list-style-type: none;
+	color: red;
+}
+
+#mainBody h1{
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+a {
+		text-decoration: none;
+		color: red;
+}
+
+#mainBody{
+	background-color: blue;
+	color: red;
+	font-size: 20px;
+	padding: 10px;
+}
+
+#mainBody ul{
+	list-style-type: none;
+	color: red;
+}
